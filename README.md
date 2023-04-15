@@ -6,7 +6,7 @@ I'm also part of DotNetToscana Community and I love to take part to the events s
 ### What I spoke about
 
 * 2022
-	*	2022/12/16 - :speaker: [XMasDEV 2022 - Dolcetto e Carbone? ML.NET in soccorso della Befana!](./Events/20221216-XMasDev/details.html)
+	*	2022/12/16 - :speaker: [XMasDEV 2022 - Dolcetto e Carbone? ML.NET in soccorso della Befana!](./Events/20221216-XMasDev/details.md)
 	*	2022/10/22 - :speaker: [1nn0va Saturday - “There and back again” - A telemetry’s tale to Mordor](./Events/20221024-1nn0va%20Saturday/details.md)
 	*	2022/10/19 - :speaker: [WPC Italy 2022 - Monitora la tua serra in tempo reale con Azure Digital Twins!](./Events/20221019-WPC2022/details.md)
 	*	2022/03/18 - :speaker: [DotNETConf 2022 - Creare un connettore personalizzato Power Automate con Minimal API](./Events/20220318-DotNETConf%202022/details.md)

@@ -1,5 +1,5 @@
 # Road to Cloud Native - the Trial Map!
 ## 2021 09 24 - CloudGen 2021
-### Preview
+### Deck
 
-<iframe src='https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2Frcappello%2Frcappello%2Fmain%2FEvents%2F20210924-CloudGen2021%2FRoad to Cloud Native - the Trial Map!.pptx&wdOrigin=BROWSELINK' width='100%' height='600px' frameborder='0'>
+[Click to view it](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2Frcappello%2Frcappello%2Fmain%2FEvents%2F20210924-CloudGen2021%2FRoad%20to%20Cloud%20Native%20-%20the%20Trial%20Map!.pptx&wdOrigin=BROWSELINK)
