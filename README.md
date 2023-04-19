@@ -3,7 +3,7 @@
 I'm a Microsoft Technology Consultant and former Microsoft MVP on Azure. I'm passionate about Microsoft Azure and Application Modernization practice.
 I'm also part of DotNetToscana Community and I love to take part to the events speaking about Microsoft technologies.
 
-### What I spoke about
+### Sessions
 
 * 2022
 	*	2022/12/16 - :speaker: [XMasDEV 2022 - Dolcetto e Carbone? ML.NET in soccorso della Befana!](./Events/20221216-XMasDev/details.md)
