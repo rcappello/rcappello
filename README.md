@@ -19,6 +19,7 @@ I'm also part of DotNetToscana Community and I love to take part to the events s
 	*	2021/02/27 - :speaker: [Scottish Summit 2021 - Infrastructure as Code con Terraform... e Azure DevOps!](./Events/20210227-Scottish%20Summit%202021/details.md)
 	*	2021/01/11 - :speaker: [1nn0va After Hours - Cloud Modernization with Microsoft Azure](./Events/20210111-1nn0vaA%20After%20Hours/details.md)
 * 2020
+	*	2020/12/02 - :speaker: [dotNETConf 2020 - Migrate and Modernize ASP.NET Applications with Azure and .NET 5](./Events/20201202-dotNETConf 2020/details.md)
 	*	...
 * 2019
 	*   ...
