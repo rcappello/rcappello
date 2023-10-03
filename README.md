@@ -5,7 +5,7 @@ I'm also part of DotNetToscana Community and I love to take part to the events s
 
 ### Sessions
 * 2023
-	*	2023/09/30 - :speaker: [1nn0va Saturday - Integra l’AI nelle tue applicazioni con l’aiuto del Semantic Kernel](./Events/20230930-1nn0va/1nn0va%20Saturday%202023%20-%20Semantic%20Kernel.pptx)
+	*	2023/09/30 - :speaker: [1nn0va Saturday - Integra l’AI nelle tue applicazioni con l’aiuto del Semantic Kernel](./Events/20230930-1nn0va/details.md)
 * 2022
 	*	2022/12/16 - :speaker: [XMasDEV 2022 - Dolcetto e Carbone? ML.NET in soccorso della Befana!](./Events/20221216-XMasDev/details.md)
 	*	2022/10/22 - :speaker: [1nn0va Saturday - “There and back again” - A telemetry’s tale to Mordor](./Events/20221024-1nn0va%20Saturday/details.md)
