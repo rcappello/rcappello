@@ -5,6 +5,7 @@ I'm also part of DotNetToscana Community and I love to take part to the events s
 
 ### Sessions
 * 2023
+	*	2023/11/29 - :speaker: [WPC2023 - Data API builder - empower data utilization](./Events/20231129-WPC2023/details.md)
 	*	2023/09/30 - :speaker: [1nn0va Saturday - Integra l’AI nelle tue applicazioni con l’aiuto del Semantic Kernel](./Events/20230930-1nn0va/details.md)
 * 2022
 	*	2022/12/16 - :speaker: [XMasDEV 2022 - Dolcetto e Carbone? ML.NET in soccorso della Befana!](./Events/20221216-XMasDev/details.md)
