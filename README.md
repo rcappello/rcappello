@@ -34,8 +34,18 @@
 ### 📈 GitHub stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=rcappello&show_icons=true&hide_border=true" alt="GitHub stats">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rcappello&layout=compact&hide_border=true" alt="Top languages">
+  <a href="https://github.com/rcappello">
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=rcappello&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub stats">
+  </a>
+  <a href="https://github.com/rcappello">
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rcappello&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Top languages">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/rcappello">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rcappello&hide_border=true&theme=tokyonight" alt="GitHub streak">
+  </a>
 </p>
 
 ---
