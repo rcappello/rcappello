@@ -4,6 +4,8 @@ I'm a Microsoft Technology Consultant and former Microsoft MVP on Azure. I'm pas
 I'm also part of DotNetToscana Community and I love to take part to the events speaking about Microsoft technologies.
 
 ### Sessions
+* 2025
+	*	2025/12/02 - :speaker: [WPC2025 - Gestione dei documenti l'Intelligenza Artificiale al servizio della conoscenza](./Events/20251202-WPC2025/details.md)
 * 2024
 	*	2024/11/28 - :speaker: [WPC2024 - Soluzioni IoT moderne in Azure nell'era dell'analytics e dell'AI](./Events/20241128-WPC2024/details.md)
 * 2023
