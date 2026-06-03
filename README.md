@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Microsoft%20MVP-Alumni-5E2D91?style=flat&logo=microsoft&logoColor=white" alt="Microsoft MVP Alumni">
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white" alt="Azure">
+  <img src="https://img.shields.io/badge/Microsoft%20MVP-Alumni-5E2D91?style=flat" alt="Microsoft MVP Alumni">
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat&logo=https%3A%2F%2Fcdn.simpleicons.org%2Fmicrosoftazure%2Fwhite&logoColor=white" alt="Azure">
   <img src="https://img.shields.io/badge/DotNetToscana-Community-512BD4?style=flat&logo=dotnet&logoColor=white" alt="DotNetToscana">
   <a href="https://github.com/rcappello?tab=followers"><img src="https://img.shields.io/github/followers/rcappello?style=flat&logo=github&label=Followers&color=181717" alt="GitHub followers"></a>
   <img src="https://komarev.com/ghpvc/?username=rcappello&style=flat&color=0078D4&label=Profile+views" alt="Profile views">
@@ -23,18 +23,19 @@
 
 ### 🛠️ Topics & tech
 
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat&logo=https%3A%2F%2Fcdn.simpleicons.org%2Fmicrosoftazure%2Fwhite&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
-![IaC](https://img.shields.io/badge/IaC_(Infrastructure_as_Code)-7B42BC?style=flat&logo=terraform&logoColor=white)
+![IaC](https://img.shields.io/badge/IaC_(Infrastructure_as_Code)-7B42BC?style=flat)
 ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat&logo=azuredevops&logoColor=white)
-![Microsoft Foundry](https://img.shields.io/badge/Microsoft_Foundry-0A66C2?style=flat&logo=microsoft&logoColor=white)
-![Foundry Agent Service](https://img.shields.io/badge/Foundry_Agent_Service-2EA043?style=flat&logo=microsoft&logoColor=white)
-![Microsoft Agent Framework](https://img.shields.io/badge/Microsoft_Agent_Framework-6E40C9?style=flat&logo=microsoft&logoColor=white)
-![MCP](https://img.shields.io/badge/Model_Context_Protocol-000000?style=flat)
-![IoT](https://img.shields.io/badge/IoT-00B0FF?style=flat)
-![AI](https://img.shields.io/badge/AI-FF6F00?style=flat)
+![Microsoft Foundry](https://img.shields.io/badge/Microsoft_Foundry-0A66C2?style=flat)
+![Foundry Agent Service](https://img.shields.io/badge/Foundry_Agent_Service-2EA043?style=flat)
+![Microsoft Agent Framework](https://img.shields.io/badge/Microsoft_Agent_Framework-6E40C9?style=flat)
+![MCP](https://img.shields.io/badge/Model_Context_Protocol-000000?style=flat&logo=anthropic&logoColor=white)
+![IoT](https://img.shields.io/badge/IoT-00B0FF?style=flat&logo=arduino&logoColor=white)
+![AI](https://img.shields.io/badge/AI-000000?style=flat&logo=githubcopilot&logoColor=white)
 
-### 📈 GitHub stats
+<details>
+<summary><h3>📈 GitHub stats</h3></summary>
 
 <p align="center">
   <a href="https://github.com/rcappello">
@@ -54,11 +55,7 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/rcappello">
-    <img src="https://github-profile-trophy.vercel.app/?username=rcappello&theme=tokyonight&no-frame=true&margin-w=8&row=1&column=7" alt="GitHub trophies">
-  </a>
-</p>
+</details>
 
 ---
 
